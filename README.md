@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-this is an edit
+https://eghizio.github.io/hello-world/
